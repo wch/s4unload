@@ -1,0 +1,9 @@
+Package: s4i
+Title: Test package for S4 with import(methods)
+License: GPL-2
+Description: Test package for S4 loading and unloading
+Author: Winston Chang <winston@stdout.org>
+Maintainer: Winston Chang <winston@stdout.org>
+Version: 0.1
+Imports:
+    methods
